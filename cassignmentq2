@@ -21,7 +21,7 @@ void encryption(FILE *rptr,FILE *wptr,int n,int k){
     }
     fputs(ch,wptr);
 }
-
+// leet code question 1 and 2
 
 
 int main(){
